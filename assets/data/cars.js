@@ -1,0 +1,36 @@
+export default [
+  {
+    id: 0,
+    type: 'MetrolX',
+    latitude: 7.257132,
+    longitude: 5.20579,
+    heading: 130,
+  },
+  {
+    id: 1,
+    type: 'MetrolXL',
+    // latitude: 7.534,
+    // longitude: 5.456,
+    latitude: 7.257132,
+    longitude: 4.20579,
+    heading: 0,
+  },
+  {
+    id: 2,
+    type: 'MetrolLUX',
+    // latitude: 28.456208,
+    // longitude: -16.259098,
+    latitude: 7.257132,
+    longitude: 3.90579,
+    heading: 190,
+  },
+  {
+    id: 3,
+    type: 'MetrolVIP',
+    // latitude: 27.454812,
+    // longitude: -15.258658,
+    latitude: 7.357132,
+    longitude: 4.89579,
+    heading: 30,
+  },
+];
